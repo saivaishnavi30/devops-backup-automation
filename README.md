@@ -12,7 +12,7 @@ cloud backups using Bash scripting and Google Cloud Platform.
 - Ubuntu (WSL)
 
 ## Automation Features
-- Scheduled daily backups at 2am using cron
+- Scheduled daily backups everyday using cron
 - Timestamped backup files for version tracking
 - Success/failure verification after every backup
 - Full audit log maintained in backup.log
