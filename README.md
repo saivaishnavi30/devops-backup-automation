@@ -35,5 +35,4 @@ cat ~/backup.log
 ### Check Scheduled Job
 crontab -l
 
-## Project
-RISE 5.0 Internship — DevOps Project 6
+
