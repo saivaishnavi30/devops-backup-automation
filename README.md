@@ -30,9 +30,15 @@ bash backup.sh
 bash restore.sh
 
 ### View Logs
+
+
 cat ~/backup.log
 
 ### Check Scheduled Job
 crontab -l
 
-
+## Screenshots
+![](screenshots/6.jpeg)
+![](screenshots/7.jpeg)
+![](screenshots/8.jpeg)
+![](screenshots/9.jpeg)
