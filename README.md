@@ -38,7 +38,7 @@ cat ~/backup.log
 crontab -l
 
 ## Screenshots
-![](screenshots/6.jpeg)
-![](screenshots/7.jpeg)
-![](screenshots/8.jpeg)
-![](screenshots/9.jpeg)
+![](6.jpeg)
+![](7.jpeg)
+![](8.jpeg)
+![](9.jpeg)
