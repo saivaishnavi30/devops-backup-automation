@@ -5,7 +5,7 @@ A DevOps automation project that schedules, monitors, and logs
 cloud backups using Bash scripting and Google Cloud Platform.
 
 ## Tools Used
-- Google Cloud Storage (GCS)
+- Google Cloud Storage
 - gcloud CLI
 - Bash Scripting
 - Cron (Automated Scheduler)
@@ -16,7 +16,7 @@ cloud backups using Bash scripting and Google Cloud Platform.
 - Timestamped backup files for version tracking
 - Success/failure verification after every backup
 - Full audit log maintained in backup.log
-- One-command disaster recovery via restore.sh
+- Disaster recovery via restore.sh
 
 ## Scripts
 - backup.sh → Automated backup with error handling and logging
